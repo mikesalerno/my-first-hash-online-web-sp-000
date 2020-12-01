@@ -1,4 +1,4 @@
-your_hash = {"name" => "Mike", "Age" => "37", "Gender => Male"}
+your_hash = {"name" => "Mike", "Age" => "37", "Gender => "Male"}
 
 def my_hash
   puts your_hash
